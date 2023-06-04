@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Asad
+#### I am a Future Developer
+
+I made this project just for fun, and because I need to practice how to make a better Github landing page
+
+Skills: PYTHON / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **Abugosh94/Abugosh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
