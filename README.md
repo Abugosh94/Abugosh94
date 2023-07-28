@@ -3,7 +3,7 @@
 
 ![](https://github.com/Abugosh94/Abugosh94/blob/main/Kind%20of.gif)
 
-I made this project just for fun, and because I need to practice how to make a more appealing Github landing page
+I created this file for fun, and for the need to practice how to make a more appealing Github landing page
 
 Skills: PYTHON / JS / HTML / CSS
 
